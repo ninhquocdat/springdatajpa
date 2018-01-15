@@ -1,0 +1,14 @@
+/.idea
+/*.iml
+/realestate-core-data/*.iml
+/realestate-core-data/target
+/realestate-core-repository/target
+/realestate-core-repository/*.iml
+/realestate-core-service/*.iml
+/realestate-core-service/target
+/realestate-core-test/target
+/realestate-core-test/*.iml
+/realestate-web/target
+/realestate-web/*.iml
+/realestate-web-logic/target
+/realestate-web-logic/*.iml
